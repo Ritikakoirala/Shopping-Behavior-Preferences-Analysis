@@ -4,7 +4,6 @@ Project Overview
 
 This project presents an **interactive Power BI dashboard** that analyzes customer shopping behavior, preferences, and satisfaction. The goal is to derive **actionable business insights** related to purchasing frequency, promotional effectiveness, seasonal trends, and customer satisfaction.
 
- 
  Objectives
 
 * Understand customer demographics and buying patterns
@@ -12,8 +11,6 @@ This project presents an **interactive Power BI dashboard** that analyzes custom
 * Identify top-performing product categories across seasons
 * Analyze customer satisfaction and behavior patterns
 * Support data-driven marketing and inventory decisions
-
-
 
  Key Features
 
@@ -23,8 +20,6 @@ This project presents an **interactive Power BI dashboard** that analyzes custom
 * Customer Satisfaction Analysis: Rating distribution and cluster (scatter) analysis
 * Demographic Insights: Age and gender-based purchasing patterns
 * Interactive Filters: Category, Shipping Type, Season, Gender
-
-
 
  Business Questions Answered
 
@@ -45,8 +40,6 @@ Visualizations Used
 * Ribbon Charts (ranking analysis)
 * Scatter Plot (Cluster Diagram)
 
-
-
 Dataset Overview
 
 The dataset includes the following attributes:
@@ -58,8 +51,6 @@ The dataset includes the following attributes:
 * Payment Method, Shipping Type
 * Season, Location
 * Review Rating, Subscription Status
-
-
 
 Key Insights
 
