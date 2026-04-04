@@ -1,11 +1,9 @@
 Shopping Behavior & Preferences Analysis (Power BI)
 
 Project Overview
-
 This project presents an **interactive Power BI dashboard** that analyzes customer shopping behavior, preferences, and satisfaction. The goal is to derive **actionable business insights** related to purchasing frequency, promotional effectiveness, seasonal trends, and customer satisfaction.
 
  Objectives
-
 * Understand customer demographics and buying patterns
 * Evaluate the impact of discounts and promo codes on sales
 * Identify top-performing product categories across seasons
